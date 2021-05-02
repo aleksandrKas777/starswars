@@ -1,0 +1,25 @@
+@import '../components/nav/styles';
+@import '../components/loader/styles';
+@import '../components/parts/styles';
+
+
+body {
+  background-color: black;
+}
+
+.wrapper{
+
+  width: 900px;
+  margin: 0 auto;
+}
+
+.block{
+  padding-top: 15px;
+  padding-left: 15px;
+  background-color: darkgray;
+  height: 1000px;
+}
+
+p{
+  font-size: 30px;
+}
